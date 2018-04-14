@@ -1,4 +1,4 @@
-Git is a distributed version control system.
+﻿Git is a distributed version control system.
 Git is free software.
 
 git 真JB难
@@ -6,3 +6,5 @@ git 真JB难
 阿杜gas对方噶
 
 啊大师傅大是大非
+
+343434

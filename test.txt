@@ -23,3 +23,5 @@ git 真JB难
 
 --no-ff模式学习
 git issue 学习
+git stash 学习
+
